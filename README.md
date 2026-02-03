@@ -7,7 +7,6 @@ L’interface permet :
 - De **générer des images** à partir d’un prompt textuel (DALL·E 3).
 
 <img src="Capture/img.png">
-<img src="Capture/img.png">
 <img src="Capture/img0.png">
 
 ---
